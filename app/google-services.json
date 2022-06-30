@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963762980130",
+    "firebase_url": "https://chlidcommunication.firebaseio.com",
+    "project_id": "chlidcommunication",
+    "storage_bucket": "chlidcommunication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963762980130:android:7b3829b32003db82f5117b",
+        "android_client_info": {
+          "package_name": "com.inventure.childcomunication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963762980130-404m16gaoch82cftteabubq6pa81l4su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBULo3LxvLsEskmpWfHpHWxdpAzyGgr020"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963762980130-404m16gaoch82cftteabubq6pa81l4su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
